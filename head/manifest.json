@@ -1,0 +1,20 @@
+{
+  "name": "TrailblazerX",
+  "short_name": "TBX",
+  "description": "Play Unblocked Games Online",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#c9b9ff",
+  "icons": [
+    {
+      "src": "coolimg.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "RJs Games.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
