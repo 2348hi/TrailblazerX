@@ -22,13 +22,13 @@ This is the new and improved version of my old website ProxyNetWeb. There will b
 - Multible links!
 
 ## Links
-- [proxynetworkweb.vercel.app](https://proxynetworkweb.vercel.app/) - Vercel
-- [2348hi.github.io/ProxyNetWeb](https://2348hi.github.io/ProxyNetWeb/) - Github
-- [proxynetweb.onrender.com](https://proxynetweb.onrender.com/) - Render
-- [proxynewwork.global.ssl.fastly.net](https://proxynewwork.global.ssl.fastly.net/) - Fastly
-- [quixotic-wave-waterlily.glitch.me](https://quixotic-wave-waterlily.glitch.me/) - Glitch
-- [proxynetweb-production.up.railway.app](https://proxynetweb-production.up.railway.app/) - Railway
-- [proxynetworkweb.netlify.app](https://proxynetworkweb.netlify.app/) - Netifly
+- [Link 1](https://trailblazer-x.vercel.app/) - Vercel
+- [Link 2](https://2348hi.github.io/ProxyNetWeb/) - Github
+- [Link 3](https://proxynetweb.onrender.com/) - Render
+- [Link 4](https://proxynewwork.global.ssl.fastly.net/) - Fastly
+- [Link 5](https://quixotic-wave-waterlily.glitch.me/) - Glitch
+- [Link 6](https://proxynetweb-production.up.railway.app/) - Railway
+- [Link 7](https://proxynetworkweb.netlify.app/) - Netifly
 
 ## Credits
 - [RJLee88](https://github.com/RJLee88/RJsGamesV2) - The OG website!
