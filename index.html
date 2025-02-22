@@ -149,6 +149,26 @@
       window.location.href = url;
     });
   });
+document.addEventListener('DOMContentLoaded', function () {
+  // Previous DOMContentLoaded event listener code remains the same
+  
+  // Add search functionality
+  const searchInput = document.getElementById('search');
+  searchInput.addEventListener('input', function() {
+    const searchTerm = this.value.toLowerCase();
+    const gameContainers = document.querySelectorAll('.button-container');
+    
+    gameContainers.forEach(container => {
+      const gameName = container.querySelector('.button-text').textContent.toLowerCase();
+      if (gameName.includes(searchTerm)) {
+        container.style.display = 'flex';
+      } else {
+        container.style.display = 'none';
+      }
+    });
+  });
+});
+    
   window.onload = function() {
     fetch('head/games.json')
       .then(response => {
