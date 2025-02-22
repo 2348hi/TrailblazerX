@@ -4,7 +4,7 @@
 The next generation unblocked game websites!
 
 
-TrailblazerX, also known as an unblocked gaming hub, has a built-in proxy system, With a ton of games.
+TrailblazerX, also known as a static unblocked gaming website, has a built-in proxy, With a ton of games.
 
 This is the new and improved version of my old website ProxyNetWeb. There will be credits for this website at the bottem of the page.
 
