@@ -23,12 +23,12 @@ This is the new and improved version of my old website ProxyNetWeb. There will b
 
 ## Links
 - [Link 1](https://trailblazer-x.vercel.app/) - Vercel
-- [Link 2](https://2348hi.github.io/ProxyNetWeb/) - Github
-- [Link 3](https://proxynetweb.onrender.com/) - Render
-- [Link 4](https://proxynewwork.global.ssl.fastly.net/) - Fastly
+- [Link 2](https://2348hi.github.io/TrailblazerX/) - Github
+- [Link 3](https://trailblazerx.onrender.com/) - Render
+- [Link 4](https://trailblazerx.global.ssl.fastly.net/) - Fastly
 - [Link 5](https://quixotic-wave-waterlily.glitch.me/) - Glitch
-- [Link 6](https://proxynetweb-production.up.railway.app/) - Railway
-- [Link 7](https://proxynetworkweb.netlify.app/) - Netifly
+- [Link 6](https://trailblazerx-production.up.railway.app/) - Railway
+- [Link 7](https://trailblazer-x.netlify.app/) - Netifly
 
 ## Credits
 - [RJLee88](https://github.com/RJLee88/RJsGamesV2) - The OG website!
