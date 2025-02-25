@@ -24,7 +24,7 @@ This is the new and improved version of my old website ProxyNetWeb. There will b
 ## Links
 - [Link 1](https://trailblazer-x.vercel.app/) - Vercel
 - [Link 2](https://2348hi.github.io/TrailblazerX/) - Github
-- [Link 3](https://trailblazerx.onrender.com/) - Render
+- [Link 3](https://trailblazerx.pages.dev/) - Cloudfare
 - [Link 4](https://trailblazerx.global.ssl.fastly.net/) - Fastly
 - [Link 5](https://quixotic-wave-waterlily.glitch.me/) - Glitch
 - [Link 6](https://trailblazerx-production.up.railway.app/) - Railway
