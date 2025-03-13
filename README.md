@@ -9,8 +9,8 @@ TrailblazerX, also known as a static unblocked gaming website, has a built-in pr
 This is the new and improved version of my old website ProxyNetWeb. There will be credits for this website at the bottem of the page.
 
 ## Info
-- Please consider staring. :)
 - You may fork if you would like as long as you follow the don't be a dick license.
+- This project is NOT finished so dont expect too much
 
 ## Features
 - Simple design!
