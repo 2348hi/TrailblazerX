@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+Next+Generation+Of+Unblocked;Redefying+The+Word+Unblocked;For+School%2FWork)](https://git.io/typing-svg)
 
-# Introducing TrailblzerX
+# Introducing TrailblazerX
 The next generation unblocked game websites!
 
 
