@@ -27,7 +27,7 @@ This is the new and improved version of my old website ProxyNetWeb. There will b
 - [Link 3](https://trailblazerx.pages.dev/) - Cloudfare
 - [Link 4](https://trailblazerx.global.ssl.fastly.net/) - Fastly
 - [Link 5](https://quixotic-wave-waterlily.glitch.me/) - Glitch
-- [Link 6](https://trailblazerx-production.up.railway.app/) - Railway
+- [Link 6](https://trailblazerx-production.up.railway.app/) - Railway - NOT WORKING
 - [Link 7](https://trailblazer-x.netlify.app/) - Netifly
 
 ## Credits
